@@ -4,4 +4,5 @@ hola como estas
 git add -A
 git commit -m "comentario"
 git checkout -b master
-git push -u origin master  
+git push -u origin main
+  
